@@ -10,6 +10,6 @@ int main(void) {
         }
         printf("\n");
     }
-
+    //triangulo de asteriscos
     return 0;
 }
